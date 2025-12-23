@@ -1,0 +1,16 @@
+[
+  {
+    "userId": "1489417776",
+    "deviceIds": [], // 无绑定设备
+    "createTime": "2025-12-21T15:20:00+08:00",
+    "lastLoginTime": null, // 从未登录
+    "expireTime": "permanent" // 永久有效
+  },
+  {
+    "userId": "user_10086",
+    "deviceIds": ["device_ios_987654321", "device_android_123456789", "device_pc_456789123"],
+    "createTime": "2025-12-23T10:15:30+08:00",
+    "lastLoginTime": "2025-12-23T14:20:45+08:00",
+    "expireTime": "2026-12-23T10:15:30+08:00"
+  }
+]
