@@ -1,10 +1,10 @@
 [
   {
     "userId": "1489417776",
-    "deviceIds": [], // 无绑定设备
+    "deviceIds": [],
     "createTime": "2025-12-21T15:20:00+08:00",
-    "lastLoginTime": null, // 从未登录
-    "expireTime": "permanent" // 永久有效
+    "lastLoginTime": null,
+    "expireTime": "permanent"
   },
   {
     "userId": "user_10086",
